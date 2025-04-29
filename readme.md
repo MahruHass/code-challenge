@@ -3,6 +3,8 @@
 ## Challenge Details
 
 ### Objective
+Fork this project and share your github link with the implementation please
+
 Build an API endpoint that:
 1. Receives a video file and campaign ID
 2. Distributes this video to multiple services in parallel
